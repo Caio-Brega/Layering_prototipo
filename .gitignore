@@ -1,0 +1,19 @@
+# Ambiente virtual
+venv/
+
+# Variáveis de ambiente / credenciais
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
